@@ -10,7 +10,7 @@ export const Navbar = () => {
       justifyContent={"center"}
       bg={"blue"}
       color={"white"}
-      fontSize={['0.7rem',"2xl"]}
+      fontSize={['0.5rem',"2xl"]}
       fontWeight={"bold"}
       py={"1rem"}
     >

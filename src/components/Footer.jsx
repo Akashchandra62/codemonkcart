@@ -93,7 +93,7 @@ const Footer = () => {
             <VStack alignItems={'center'} justifyContent={'center'} className="mobile"> 
               <HStack alignItems={'center'} justifyContent={'center'}>
                 <Text
-                  // fontSize={"1.1rem"}
+                  fontSize={"0.7rem"}
                   fontWeight={"bold"}
                   borderRight={"2px solid white"}
                   px={"2"}
@@ -102,13 +102,14 @@ const Footer = () => {
                 </Text>
                 <Text
                   // fontSize={"1.3rem"}
+                  fontSize={"0.7rem"}
                   fontWeight={"bold"}
                   borderRight={"2px solid white"}
                   px={"2"}
                 >
                   LOREM
                 </Text>
-                <Text  fontWeight={"bold"} px={'2'}>
+                <Text fontSize={"0.7rem"}  fontWeight={"bold"} px={'2'}>
                   LOREM
                 </Text>
               </HStack>
